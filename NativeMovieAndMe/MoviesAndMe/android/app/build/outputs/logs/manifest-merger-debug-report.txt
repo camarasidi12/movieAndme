@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/a2baabce230693daddb49214b1d4763c/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/782ee203f784087f0fa6597b58af802b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/cb26acc5e15b459655d48ab78174aa7c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/cbce9f0bf53a54f8441eaa10577a9b89/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3a36002d109d15a295cb6fac98184742/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a8736669a82101296d27b651fc23ceae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/fe99858eb0844890d97c4243d20b91e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6aba548404a290d7bd9182e296a8add3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/9f962120d617729c77c314770060e543/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/c973984a0ef16d32d17b84ef61decfdd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/753844e4294e657b8fa306000ff30072/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/ef55e820568bf27b80ba98cfe56dc540/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/f66c26acc23a0c354437f6561dd62772/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/fd18ba407812f29981863b70efbe717a/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/c3fc4abd3c58b3a36af1f3d39df0fb92/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3778554b21746695a3c76bdd9d7a16c4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/da34f685bfab2cd5e1e610200c11b47a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/86a3a4d0d3a566a4d71736b689fff4da/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3758b1557a5d49874e2bb0ca4ac6f689/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c0e1391b22aa07bb47a4e629335c5a20/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:2:5-22
+		INJECTED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/a2baabce230693daddb49214b1d4763c/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/a2baabce230693daddb49214b1d4763c/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/a2baabce230693daddb49214b1d4763c/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/a2baabce230693daddb49214b1d4763c/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/fd18ba407812f29981863b70efbe717a/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/fd18ba407812f29981863b70efbe717a/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/c3fc4abd3c58b3a36af1f3d39df0fb92/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/c3fc4abd3c58b3a36af1f3d39df0fb92/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.yes.MainActivity
+ADDED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/a2baabce230693daddb49214b1d4763c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/a2baabce230693daddb49214b1d4763c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/782ee203f784087f0fa6597b58af802b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/782ee203f784087f0fa6597b58af802b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/cb26acc5e15b459655d48ab78174aa7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/cb26acc5e15b459655d48ab78174aa7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/cbce9f0bf53a54f8441eaa10577a9b89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/cbce9f0bf53a54f8441eaa10577a9b89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3a36002d109d15a295cb6fac98184742/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3a36002d109d15a295cb6fac98184742/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a8736669a82101296d27b651fc23ceae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a8736669a82101296d27b651fc23ceae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/fe99858eb0844890d97c4243d20b91e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/fe99858eb0844890d97c4243d20b91e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6aba548404a290d7bd9182e296a8add3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6aba548404a290d7bd9182e296a8add3/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/9f962120d617729c77c314770060e543/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/9f962120d617729c77c314770060e543/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/c973984a0ef16d32d17b84ef61decfdd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/c973984a0ef16d32d17b84ef61decfdd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/753844e4294e657b8fa306000ff30072/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/753844e4294e657b8fa306000ff30072/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/ef55e820568bf27b80ba98cfe56dc540/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/ef55e820568bf27b80ba98cfe56dc540/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/f66c26acc23a0c354437f6561dd62772/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/f66c26acc23a0c354437f6561dd62772/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/fd18ba407812f29981863b70efbe717a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/fd18ba407812f29981863b70efbe717a/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3778554b21746695a3c76bdd9d7a16c4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3778554b21746695a3c76bdd9d7a16c4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/da34f685bfab2cd5e1e610200c11b47a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/da34f685bfab2cd5e1e610200c11b47a/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/86a3a4d0d3a566a4d71736b689fff4da/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/86a3a4d0d3a566a4d71736b689fff4da/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3758b1557a5d49874e2bb0ca4ac6f689/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3758b1557a5d49874e2bb0ca4ac6f689/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c0e1391b22aa07bb47a4e629335c5a20/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/sidicamara/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c0e1391b22aa07bb47a4e629335c5a20/AndroidManifest.xml:20:5-44
+INJECTED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/sidicamara/Desktop/reactNativeP/NativeMovieAndMe/MoviesAndMe/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

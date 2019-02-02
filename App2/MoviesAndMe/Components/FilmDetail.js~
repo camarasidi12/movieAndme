@@ -1,0 +1,28 @@
+// Components/FilmDetail.js
+
+import React from 'react'
+import { StyleSheet, View, Text,TouchableOpacity } from 'react-native'
+
+class FilmDetail extends React.Component {
+    _displayDetailForFilm = (idFilm) => {
+     console.log("Display film with id " + idFilm)
+    this.props.navigation.navigate("FilmDetail2", { idFilm: idFilm })
+}
+    render() {
+    const dispDetailFil =this.prop
+    return (
+	    <TouchableOpacity style={styles.main_container}
+	onPress=  { ()=> this._displayDetailForFilm("fffoook")  }>
+        <Text>Détail du film  {this.props.navigation.state.params.idFilm }</Text>
+      </TouchableOpacity>
+    )
+  }
+}
+
+const styles = StyleSheet.create({
+  main_container: {
+    flex: 1,
+  }
+})
+
+export default FilmDetail
